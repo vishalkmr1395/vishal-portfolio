@@ -30,7 +30,7 @@ const CompanySection = () => {
         <div className="flex flex-wrap justify-center items-center gap-4">
           {/* Zluri */}
           <div className="flex items-center gap-3">
-            <img src={zluriLogo} alt="Zluri" className="w-20 h-14 object-contain mb-4" />
+            <img src={zluriLogo} alt="Zluri" className="w-20 h-14 object-contain mb-5" />
             {/* <span className="text-2xl md:text-3xl font-semibold text-gray-800">Zluri</span> */}
           </div>
 
