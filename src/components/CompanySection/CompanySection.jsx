@@ -10,7 +10,7 @@ const CompanySection = () => {
       <div className="max-w-6xl mx-auto text-center">
         {/* Main heading */}
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4">
-          Over the last 4 years, I have built B2B SaaS & B2C products in
+          Over the last 7 years, I have built B2B SaaS & B2C products in
         </h1>
 
         <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
@@ -23,7 +23,7 @@ const CompanySection = () => {
         </h2>
 
         <p className="text-xl md:text-2xl text-gray-700 mb-16">
-          for customers across US and India.
+          for customers across India, US, Europe, China, Australia, Canada.
         </p>
 
         {/* Logos + Text */}
