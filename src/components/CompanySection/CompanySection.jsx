@@ -10,21 +10,21 @@ const CompanySection = () => {
       <div className="max-w-6xl mx-auto text-center">
         {/* Main heading */}
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4">
-          Over the last 7 years, I have built B2B SaaS & B2C products in
+          Over the last 8 years, I’ve driven technology strategy, end-to-end execution, and delivery of B2B SaaS and B2C products across
         </h1>
 
         <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
-          Saas, FinTech, EdTech{' '}
+          FinTech, HealthTech, EdTech, and DevTools.
           <span className="text-yellow-500">&</span>
         </h2>
 
         <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
-          User Experience Benchmarking
+          My work has impacted customers in the U.S., India, Europe, and APAC - blending platform engineering, product strategy, and user experience at scale.
         </h2>
 
-        <p className="text-xl md:text-2xl text-gray-700 mb-16">
+        {/*  <p className="text-xl md:text-2xl text-gray-700 mb-16">
           for customers across India, US, Europe, China, Australia, Canada.
-        </p>
+        </p> */}
 
         {/* Logos + Text */}
         <div className="flex flex-wrap justify-center items-center gap-4">
