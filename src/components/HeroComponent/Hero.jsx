@@ -25,17 +25,13 @@ export default function Hero() {
               
               <div className="mb-12">
                 <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-none mb-4">
-                  Product
+                  Technical Product
                 </h2>
                 <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-none">
                   Manager
                   <span className="text-yellow-400 ml-2">/</span>
                 </h2>
               </div>
-              
-              <p className="text-2xl md:text-3xl lg:text-4xl font-light text-white mb-16">
-                using <span className="text-yellow-400 font-medium">no-code</span> tools.
-              </p>
               
               <div className="flex flex-col sm:flex-row gap-6 justify-start items-center">
   {/* Resume Button */}
