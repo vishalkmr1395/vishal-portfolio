@@ -15,7 +15,6 @@ const CompanySection = () => {
 
         <h1 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
            FinTech, HealthTech, EdTech, and DevTools, impacting users in the U.S., India, Europe, and APAC.
-          <span className="text-yellow-500">&</span>
         </h1>
 
         {/*  <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
