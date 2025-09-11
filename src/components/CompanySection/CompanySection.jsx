@@ -13,10 +13,10 @@ const CompanySection = () => {
           Over the last 8 years, I’ve driven technology strategy, end-to-end execution, and delivery of B2B SaaS and B2C products across
         </h1>
 
-        <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
-           FinTech, HealthTech, EdTech, and DevTools, impacting users in the U.S., India, Europe, and APAC through a blend of platform engineering, product strategy, and UX at scale..
+        <h1 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
+           FinTech, HealthTech, EdTech, and DevTools, impacting users in the U.S., India, Europe, and APAC.
           <span className="text-yellow-500">&</span>
-        </h2>
+        </h1>
 
         {/*  <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
           My work has impacted customers in the U.S., India, Europe, and APAC - blending platform engineering, product strategy, and user experience at scale.
