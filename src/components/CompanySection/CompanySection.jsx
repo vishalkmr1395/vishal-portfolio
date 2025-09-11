@@ -14,13 +14,13 @@ const CompanySection = () => {
         </h1>
 
         <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-2">
-          FinTech, HealthTech, EdTech, and DevTools.
+           FinTech, HealthTech, EdTech, and DevTools, impacting users in the U.S., India, Europe, and APAC through a blend of platform engineering, product strategy, and UX at scale..
           <span className="text-yellow-500">&</span>
         </h2>
 
-        <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
+        {/*  <h2 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
           My work has impacted customers in the U.S., India, Europe, and APAC - blending platform engineering, product strategy, and user experience at scale.
-        </h2>
+        </h2> */ }
 
         {/*  <p className="text-xl md:text-2xl text-gray-700 mb-16">
           for customers across India, US, Europe, China, Australia, Canada.
