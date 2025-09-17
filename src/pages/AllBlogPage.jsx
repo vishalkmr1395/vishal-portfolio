@@ -43,9 +43,9 @@ const AllBlogsPage = ({ posts }) => {
         </h1>
         <p className="text-lg text-gray-200">
           Sharing insights, tutorials, and experiences on{" "}
-          <span className="text-yellow-400">Web Development</span>,{" "}
-          <span className="text-yellow-400">Technologies</span>, and{" "}
-          <span className="text-yellow-400">Engineering</span>.
+          <span className="text-yellow-400">Product</span>,{" "}
+          <span className="text-yellow-400">Tech</span>, and{" "}
+          <span className="text-yellow-400">Program Management</span>.
         </p>
       </div>
 
