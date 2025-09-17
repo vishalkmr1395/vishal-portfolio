@@ -4,7 +4,7 @@ date: 2025-08-20
 author: Vishal Kumar Subramanian
 tags: [Product Design, Product Sense]
 readTime:  7 min read 
-type:  "PM" 
+type:  "Product Management" 
 subType: 'Design'
 excerpt: Design a supermarket for the older people in your locality
 published: true

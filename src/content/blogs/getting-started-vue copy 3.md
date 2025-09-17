@@ -4,7 +4,7 @@ date: 2025-08-20
 author: Sibghat Khan
 tags: [Vue, JavaScript, Frontend]
 readTime: "7 min read"
-type: "EPM"
+type: "Engineering"
 subType: 'B'
 excerpt: Learn the fundamentals of Vue.js, a progressive JavaScript framework for building modern web applications.
 published: true

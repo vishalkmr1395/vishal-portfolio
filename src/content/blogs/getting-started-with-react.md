@@ -4,7 +4,7 @@ date: "2025-08-15"
 author: "Sibghat Khan"
 tags: ["React", "JavaScript", "Frontend"]
 readTime: "6 min read"
-type: "TPM"
+type: "Technical Program Management"
 subType: 'A'
 excerpt: "React is a declarative and efficient JavaScript library..."
 published: true
