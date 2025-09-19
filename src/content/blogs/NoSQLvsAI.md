@@ -6,7 +6,7 @@ tags: [Engineering, Database, Distributed Systems, Tech]
 readTime: "7 min read"
 type: "Engineering"
 subType: 'Bits & Bytes'
-excerpt: The NoSQL & AI Hype: Are We Always Using the Right Tool?
+excerpt: The NoSQL & AI Hype - Are We Always Using the Right Tool?
 published: true
 featured: false
 ---
