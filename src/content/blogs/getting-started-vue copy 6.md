@@ -7,7 +7,7 @@ readTime: "7 min read"
 type: "Engineering"
 subType: 'A'
 excerpt: Learn the fundamentals of Vue.js, a progressive JavaScript framework for building modern web applications.
-published: true
+published: false
 featured: false
 ---
 
