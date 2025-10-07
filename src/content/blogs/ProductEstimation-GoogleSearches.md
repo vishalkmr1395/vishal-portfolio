@@ -25,13 +25,13 @@ featured: false
                        
                        
 ## User Segmentation  
-             1. Lite users - People who use Google Search less than 5 times a day - 20% of 2.9 billion people = 600k  
-             2. Standard users - People who use Google Search regularly between 5-10 times a day - 30% of 2.9 billion people = 900k  
+             1. Lite users - People who use Google Search less than 5 times a day - 20% of 2.9 billion people = 600M  
+             2. Standard users - People who use Google Search regularly between 5-10 times a day - 30% of 2.9 billion people = 900M
              3. Power users - People who use Google Search more than 10 times a day - 50% of 2.9 billion people = 1.5 billion  
 
 ## Wrapping up calculation  
-             1. Lite users - 600k * 5 = 3 million searches  
-             2. Standard users - 900k * 7.5 = 6.7 million searches  
+             1. Lite users - 600M * 5 = 3 billion searches  
+             2. Standard users - 900M * 7.5 = 6.7 billion searches  
              3. Power users - 1.50 billion * 15 = 11.250 billion searches  
 
             
