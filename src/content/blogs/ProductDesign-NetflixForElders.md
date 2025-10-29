@@ -31,9 +31,9 @@ featured: false
 
 ## Prioritization
         | Feature | Impact | Complexity |
-        |---|---|---|
-        | ABC | High | Medium |
-        | DEF | Low | Low |
+|---|---|---|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 ## Solutions
              1. Knowing where to get their product from - A kiosk that shows 
