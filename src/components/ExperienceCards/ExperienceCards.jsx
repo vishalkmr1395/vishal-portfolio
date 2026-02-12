@@ -8,7 +8,7 @@ const ExperienceCards = () => {
     {
       id: 1,
       company: "Zluri",
-      role: "Technical Lead",
+      role: "Technical Product Manager",
       period: "Sep 2023 - Jul 2024",
       summary: "Led cross-functional teams to deliver high-stakes projects, enhancing user experience through strategic planning and execution.",
       colorTop: "bg-gradient-to-r from-purple-400 to-purple-600",
