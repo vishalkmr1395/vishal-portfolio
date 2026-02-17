@@ -44,7 +44,7 @@ export default function Hero() {
 
     <div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500">
       <a
-        href="https://drive.google.com/file/d/1xOXZt5Rn9prsA_cdPcpHNS1_e9Q3RgZn/view"
+        href="https://drive.google.com/file/d/1EeI71nTS75SNU0obt-a1wQBrUUaLRxrv/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-gray-800 text-white p-2 rounded-full hover:bg-yellow-400 hover:text-gray-900 transition-all duration-300"
