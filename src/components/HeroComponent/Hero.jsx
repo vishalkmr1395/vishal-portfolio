@@ -52,7 +52,7 @@ export default function Hero() {
         <Eye size={20} />
       </a>
       <a
-        href="src/assets/Vishal Kumar Subramanian - TPM.pdf"
+        href="src/assets/VishalKumarSubramanian-TPM.pdf"
         target="_blank"
         download="Vishal_Kumar_Resume.pdf"
         rel="noopener noreferrer"
