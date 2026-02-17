@@ -96,16 +96,16 @@ const ContactPage = () => {
           <div className="text-center md:text-left">
             <h3 className="text-3xl font-bold text-yellow-400 mb-4">Connect with Me</h3>
             <div className="flex justify-center md:justify-start gap-6 mb-6">
-              <a href="mailto:youremail@example.com" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
+              <a href="mailto:vish.k1395@gmail.com" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
                 <Mail size={30} />
               </a>
-              <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
+              <a href="https://www.linkedin.com/in/vishalkmr1395/" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
                 <Linkedin size={30} />
               </a>
-              <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
+              <a href="https://github.com/vishalkmr1395" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
                 <Github size={30} />
               </a>
-              <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
+              <a href="https://twitter.com/vishalkmr13951" target="_blank" rel="noreferrer" className="hover:text-yellow-400 transition">
                 <Twitter size={30} />
               </a>
             </div>
@@ -115,18 +115,18 @@ const ContactPage = () => {
           <div className="text-gray-300 space-y-3">
             <div className="flex items-center gap-2">
               <MapPin size={20} className="text-yellow-400" />
-              <span>New Delhi, India</span>
+              <span>USA</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail size={20} className="text-yellow-400" />
-              <span>youremail@example.com</span>
+              <span>vish.k1395@gmail.com</span>
             </div>
             <div className="flex items-center gap-2">
               <Phone size={20} className="text-yellow-400" />
-              <span>+91 98765 43210</span>
+              <span></span>
             </div>
             <div>
-              <span className="font-semibold">Availability:</span> Usually respond within 24 hours
+              <span className="font-semibold">Availability:</span> I Usually respond within 24 hours
             </div>
           </div>
 
@@ -134,10 +134,14 @@ const ContactPage = () => {
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-semibold text-yellow-400 mb-4">Skills & Services</h3>
             <ul className="flex flex-wrap gap-4 justify-center md:justify-start">
-              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">React Development</li>
-              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Tailwind CSS</li>
-              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Frontend Architecture</li>
-              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Open Source Contributions</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Product Management</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">A/B Experimentation</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">System Design</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Database Design</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">API Design</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Vibe Coding</li>
+              <li className="bg-gray-800 px-4 py-2 rounded-lg border border-white/10 hover:bg-gray-700 transition">Distributed Systems</li>
+
             </ul>
           </div>
         </div>
