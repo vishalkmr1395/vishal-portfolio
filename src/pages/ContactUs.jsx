@@ -121,10 +121,10 @@ const ContactPage = () => {
               <Mail size={20} className="text-yellow-400" />
               <span>vish.k1395@gmail.com</span>
             </div>
-            <div className="flex items-center gap-2">
+            {/* <div className="flex items-center gap-2">
               <Phone size={20} className="text-yellow-400" />
               <span></span>
-            </div>
+            </div> */}
             <div>
               <span className="font-semibold">Availability:</span> I Usually respond within 24 hours
             </div>
