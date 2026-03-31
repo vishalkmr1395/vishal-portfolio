@@ -8,7 +8,7 @@ const ExperienceCards = () => {
     {
       id: 1,
       company: "Zluri",
-      role: "Technical Product Manager",
+      role: "Lead Technical Product Manager",
       period: "Sep 2023 - Jul 2024",
       summary: "Led cross-functional teams to deliver high-stakes projects, enhancing user experience through strategic planning and execution.",
       colorTop: "bg-gradient-to-r from-purple-400 to-purple-600",
@@ -25,7 +25,7 @@ const ExperienceCards = () => {
     {
       id: 2,
       company: "Amazon",
-      role: "Software Development Engineer 2",
+      role: "Product Manager - Technical",
       period: "Jul 2020 - Feb 2023",
       summary: "Managed high-scale systems handling 100M+ transactions during peak events while leading development initiatives for Kindle products.",
       colorTop: "bg-gradient-to-r from-orange-400 to-orange-600",
@@ -46,7 +46,7 @@ const ExperienceCards = () => {
     {
       id: 3,
       company: "Freshworks",
-      role: "Senior Software Engineer",
+      role: "Technical Product Manager",
       period: "Mar 2018 - Jun 2020",
       summary: "Built scalable notification systems and mentored junior engineers while being recognized as Champion and Most Valuable Performer.",
       colorTop: "bg-gradient-to-r from-green-400 to-green-600",
